@@ -1,3 +1,9 @@
+# Source
+
+La idea de este repositorio es documentar el proceso de iniciar un proyecto en Python usando [UV](https://docs.astral.sh/uv/getting-started/installation/).
+
+Ademas, se utilizara el siguiente repositorio para probar el pipeline de RAG: [rag-pipelines](https://github.com/NirDiamant/RAG_Techniques)
+
 ### Como iniciar un proyecto en Python usando UV
 
 1.- Instalar [UV](https://docs.astral.sh/uv/getting-started/installation/)
