@@ -4,6 +4,10 @@ La idea de este repositorio es documentar el proceso de iniciar un proyecto en P
 
 Ademas, se utilizara el siguiente repositorio para probar el pipeline de RAG: [rag-pipelines](https://github.com/NirDiamant/RAG_Techniques)
 
+Algunos articulos de interes:
+
+- [Strategies for Optimal Performance of RAG](https://medium.com/@bijit211987/strategies-for-optimal-performance-of-rag-6faa1b79cd45)
+
 ### Como iniciar un proyecto en Python usando UV
 
 1.- Instalar [UV](https://docs.astral.sh/uv/getting-started/installation/)
